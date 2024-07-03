@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandremfelippe/)
 
 <!-- GithubStats -->
-![alexandrefelippe GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefelippe&show_icons=true&theme=gotham)
+![alexandrefelippe GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefelippe&show_icons=true&theme=dark)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -56,4 +56,5 @@
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
     <img align="center" alt="Seaborn" src="https://img.shields.io/badge/Django-092E20" width="40" height="40"/>
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000" width="40" height="40"/>
+    <img align="center" alt="Flask" src="https://github.com/pytest-dev/design/blob/081f06cd2d6cd742e68f593560a2e8c1802feb7c/pytest_logo/pytest_logo.svg" width="40" height="40"/>
   </div>
